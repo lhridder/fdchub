@@ -1,0 +1,9 @@
+name: FreedomCraftHub
+author: TYSluukie
+version: 1.0
+main: me.TYSluukie.fdhub.Main
+
+commands:
+  bungeecount:
+    usage: /<command>
+    description: check players!
